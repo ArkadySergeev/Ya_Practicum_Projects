@@ -16,4 +16,4 @@ Python, PostgreSQL, Tableau, продуктовые метрики, постро
 
 ## ИСПОЛЬЗОВАННЫЕ БИБЛИОТЕКИ PYTHON.
 
-Pandas, Matplotlib, Seaborn, SQLAlchemy.
+Pandas, SQLAlchemy, Matplotlib, Seaborn.
