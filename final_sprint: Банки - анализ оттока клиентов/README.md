@@ -1,6 +1,6 @@
 # БАНКИ — АНАЛИЗ ОТТОКА КЛИЕНТОВ.
 
-<b> [Презентация проекта.](https://disk.yandex.ru/i/z7yseXAS45KK6Q) </b>
+<b> [ПРЕЗЕНТАЦИЯ ПРОЕКТА.](https://disk.yandex.ru/i/z7yseXAS45KK6Q) </b>
 
 Данный проект адресован продуктовому менеджеру. По его результатам необходимо сформировать понимание того, что происходит с уходящими из банка клиентами, и как организовать работу с этими клиентами далее: они не приносят прибыль и мы заинтересованы в уменьшении их доли.
 
@@ -19,7 +19,7 @@
 - Индикатор процента ушедших клиентов.
 - Фильтр дашборда по городу.
 
-<b> [Ссылка на дашборд](https://public.tableau.com/views/Bank_16619913682640/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) </b>
+<b> [ССЫЛКА НА ДАШБОРД.](https://public.tableau.com/views/Bank_16619913682640/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) </b>
 
 ## НАВЫКИ И ИНСТРУМЕНТЫ.
 
